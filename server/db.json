@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "prabath udayanga",
+      "company": "infoseek",
+      "email": "prabath@gmail.com",
+      "title": "Fullstack Developer",
+      "mobile": "071021254",
+      "photo": "https://icons.iconarchive.com/icons/icons-land/vista-people/256/Office-Customer-Male-Light-icon.png",
+      "groupId": "3"
+    },
+    {
+      "id": "3",
+      "name": "dilan madumal",
+      "company": "infoseek",
+      "email": "dila@gmail.com",
+      "title": "Fullstack Developer",
+      "mobile": "071021254",
+      "photo": "https://cdn-icons-png.flaticon.com/512/146/146031.png",
+      "groupId": "2"
+    },
+    {
+      "id": "4",
+      "name": "dewmina udayashan",
+      "company": "infoseek",
+      "email": "dewwa@gmail.com",
+      "title": "Fullstack Developer",
+      "mobile": "071021254",
+      "photo": "https://www.shareicon.net/data/512x512/2016/05/24/770139_man_512x512.png",
+      "groupId": "3"
+    },
+    {
+      "name": "thilini madushani",
+      "photo": "http://assets.stickpng.com/images/585e4bc4cb11b227491c3395.png",
+      "email": "thilini@gmail.com",
+      "mobile": 774523219,
+      "company": "HCL",
+      "title": "SD",
+      "groupId": "2",
+      "id": "uQgbiUV"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "College"
+    },
+    {
+      "id": "2",
+      "name": "Friends"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    }
+  ]
+}
